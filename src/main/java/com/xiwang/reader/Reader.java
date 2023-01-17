@@ -1,7 +1,7 @@
 package com.xiwang.reader;
 
 import com.xiwang.bean.Board;
-import com.xiwang.init.Initer;
+import com.xiwang.initer.Initer;
 
 /**
  * @author xiwang

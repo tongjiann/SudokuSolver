@@ -1,4 +1,4 @@
-package com.xiwang.init;
+package com.xiwang.initer;
 
 import com.xiwang.bean.Board;
 import com.xiwang.bean.Lat;
